@@ -23,6 +23,6 @@ The project currently contains a single endpoint, which expects
 a `name` parameter, so you would access it as follows:
 
 ```bash
-$ http://localhost:9999/get-spanish-greeting?name=Tom
+$ curl http://localhost:9999/get-spanish-greeting?name=Tom
 ```
 
