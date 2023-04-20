@@ -27,3 +27,6 @@ target
 
 # IDE detritus
 .idea
+
+# OS detritus
+.DS_Store
